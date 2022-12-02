@@ -3,7 +3,7 @@ SETLOCAL
 
 SET /A score=0
 
-FOR /f "tokens=*" %%s IN (input-01.txt) DO (
+FOR /f "tokens=*" %%s IN (input.txt) DO (
     CALL :process_line %%s
 )
 ECHO %score%
