@@ -7,7 +7,7 @@ This repository holds my solutions for the 2022 edition of [Advent of Code](http
 |1    | [Python 3](https://www.python.org/) |
 |2    | [Batch Scripting](https://en.wikipedia.org/wiki/Batch_file) |
 |3    | [Julia](https://docs.julialang.org)|
-|4    | |
+|4    | [JavaScript](https://www.javascript.com)|
 |5    | |
 |6    | |
 |7    | |
