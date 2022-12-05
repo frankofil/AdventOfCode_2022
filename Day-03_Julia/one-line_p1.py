@@ -1,0 +1,1 @@
+print(sum([sum({ord(l)-ord('&') if l in ln[len(ln)//2:] and l<'[' else ord(l)-ord('`') if l in ln[(len(ln)//2):] and l<'{' else 0 for l in ln[:(len(ln)//2)]}) for ln in open('input.txt').read().split(chr(10))]))
