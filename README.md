@@ -9,7 +9,7 @@ This repository holds my solutions for the 2022 edition of [Advent of Code](http
 |3    | [Julia](https://docs.julialang.org)|
 |4    | [JavaScript](https://www.javascript.com)|
 |5    | [Java](https://www.java.com/en/)|
-|6    | |
+|6    | [Lua](https://www.lua.org/home.html)|
 |7    | |
 |8    | |
 |9    | |
